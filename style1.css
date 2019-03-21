@@ -1,0 +1,20 @@
+
+body{
+  background-color: green;
+  color: red;
+  font-size: 50px;
+  }
+  .weisertext{
+    color: blue;
+  }
+  .rotertext{
+    color: yellow;
+  }
+  .dreitext{
+    color: violet;
+  }
+  .viertext{
+    font-style: italic;
+    font-size: 75px;
+    color: white;
+  }

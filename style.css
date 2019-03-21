@@ -1,0 +1,22 @@
+
+body{
+  background-color: yellow;
+  color: red;
+  font-size: 50px;
+  background-image: url("121.jpg");
+  background-size: 100% auto;
+  }
+  .weisertext{
+    color: blue;
+  }
+  .rotertext{
+    color: green;
+  }
+  .dreitext{
+    color: violet;
+  }
+  .viertext{
+    font-style: italic;
+    font-size: 75px;
+    color: white;
+  }
