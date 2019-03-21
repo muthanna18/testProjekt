@@ -20,3 +20,14 @@ body{
     font-size: 75px;
     color: white;
   }
+  @media print {
+    .nichtDrucken {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    body {
+      background-color: lightgreen;
+      font-size: 25px;
+    }
+  }
